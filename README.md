@@ -97,4 +97,4 @@ terraform apply
 
 Type `yes`, and it will prompt you for approval..
 
-**Thank you so much for reading..😅**
+
